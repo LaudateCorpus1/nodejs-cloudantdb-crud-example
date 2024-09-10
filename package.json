@@ -10,7 +10,7 @@
 		"cfenv": "1.0.x",
 		"async": "*",
 		"cloudant": "*",
-		"body-parser": "1.13.3",
+		"body-parser": "1.20.3",
 		"request": "*",
 		"nano":"*",
 		"path": "*",
